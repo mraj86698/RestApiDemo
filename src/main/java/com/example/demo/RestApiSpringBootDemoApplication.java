@@ -8,6 +8,7 @@ public class RestApiSpringBootDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiSpringBootDemoApplication.class, args);
+		System.out.println("Welcome to Rest Api Demo App");
 	}
 
 }
